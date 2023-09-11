@@ -35,7 +35,7 @@ class FizzBuzz {
         }
     }
 
-    private static void doFizzBuzz(int i) {
+    static void doFizzBuzz(int i) {
         System.out.println(i);
     }
 }
