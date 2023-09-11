@@ -38,6 +38,10 @@ class FizzBuzz {
     static void doFizzBuzz(int i) {
         System.out.println(i);
     }
+
+    public static void main() {
+
+    }
 }
 //        int i = 1;
 //        while (i < 100) {
